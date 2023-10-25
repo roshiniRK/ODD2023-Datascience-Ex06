@@ -14,8 +14,8 @@ Apply Feature Transformation techniques to all the features of the data set.
 Print the transformed features.
 ## PROGRAM :
 ```
-NAME : MAMTHA I
-REG NO : 212222230076
+NAME : ROSHINI R K
+REG NO : 212222230123
 ```
 
 
